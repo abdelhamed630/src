@@ -1,0 +1,31 @@
+# Core
+django>=4.2,<5.0
+djangorestframework
+djangorestframework-simplejwt
+django-environ
+django-cors-headers
+django-filter
+
+# Database
+psycopg2-binary
+
+# Cache & Queue
+redis
+django-redis
+celery
+
+# Auth
+google-auth
+requests
+
+# Images
+Pillow
+
+# PDF generation
+reportlab
+
+# Static files
+whitenoise
+
+# Production server
+gunicorn
